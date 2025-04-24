@@ -14,3 +14,6 @@ And some introduction to:
 * Affine transformation, Homography
 * Cover's theorem (kernel trick)
 * Principal Component Analysis
+* Eigenfaces
+* Cluster Analysis
+* K-Means Clustering
